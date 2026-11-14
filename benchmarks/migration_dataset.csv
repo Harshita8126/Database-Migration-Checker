@@ -1,0 +1,2 @@
+operation,row_count,table_size_bytes,index_count_before,postgres_version,execution_time_sec
+CREATE INDEX,1000,147456,1,18.7,0.050655
